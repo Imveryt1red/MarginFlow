@@ -4,7 +4,7 @@
 
 Работает полностью в браузере — без бэкенда, авторизации и внешних API. Данные хранятся локально (localStorage).
 
-**Открыть приложение:** https://vladtapo4ek1312.github.io/MarginFlow/
+**Открыть приложение:** https://imveryt1red.github.io/MarginFlow/
 
 ## Стек
 
